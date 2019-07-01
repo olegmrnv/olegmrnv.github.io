@@ -1,11 +1,12 @@
 .absolutePosition {
     position: absolute;
-    top: 20%;
-    left: 0;
+    top: 17%;
+    /* left: 0;
     right: 0;
     margin-left: 800px;
-    margin-right: auto;
-    max-width: 800px;
+    margin-right: auto; */
+    right: 4%;
+    max-width: 50%;
     width: 100%;
     color: #FFF;
     background: rgba(0, 0, 0, 0.2);
